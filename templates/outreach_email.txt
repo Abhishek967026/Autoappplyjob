@@ -1,0 +1,12 @@
+Hi {{ recruiter_name }},
+
+I hope this message finds you well. I recently came across the {{ role }} position at {{ company }} and am genuinely excited about the opportunity.
+
+As someone passionate about product management and AI, I believe my background aligns well with what your team is looking for. I've attached my resume for your review.
+
+Would you be open to a brief conversation to discuss the role? I'd love to learn more about the team and share how I can contribute.
+
+Thank you for your time and consideration.
+
+Best regards,
+{{ sender_name }}

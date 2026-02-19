@@ -1,0 +1,8 @@
+.env
+credentials/
+output/resumes/*.pdf
+__pycache__/
+*.pyc
+.DS_Store
+base_resume.txt
+base_resume.pdf
